@@ -1,3 +1,2 @@
-remote_theme: ohduran/the-interesting-times
-
+#remote_theme: ohduran/the-interesting-times --- to use any other theme from other orgs
 theme: jekyll-theme-slate
