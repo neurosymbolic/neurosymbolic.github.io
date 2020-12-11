@@ -1,0 +1,61 @@
+garry001:
+  summary: "If Computers Are So Smart, How Come They Can’t Read?"
+  author: "Gary Marcus, Ernest Davis"
+  publishedat: "Rebooting AI: Building Artificial Intelligence"
+  url: "https://www.wired.com/story/adaptation-if-computers-are-so-smart-how-come-they-cant-read/"
+  comment: ""
+yoshua001:
+  summary: "It’s a big thing to integrate [causality] into AI"
+  author: "Yoshua Bengio"
+  publishedat: "Wired"
+  url: "https://www.wired.com/story/ai-pioneer-algorithms-understand-why/"
+  comment: ""
+downside001:
+  summary: "Greedy, Brittle, Opaque, and Shallow: The Downsides to Deep Learning"
+  author: ""
+  publishedat: "Wired"
+  url: "https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/"
+  comments: ""
+openaigpt3-001:
+  summary: "OpenAI’s GPT-3, is making waves for its ability to mimic writing, but it falls short on common sense. Some experts think an emerging technique called neuro-symbolic AI is the answer."
+  author: ""
+  publishedat: "The Wall Street Journal"
+  url: "https://www.wsj.com/articles/ai-can-almost-write-like-a-humanand-more-advances-are-coming-11597150800?mod=article_inline"
+  comments: ""
+garymarcus-wakeupcall-001:
+  summary: "COVID-19 should be a wake-up call for AI"
+  author: "Gary Marcus at Intelligent Health AI Conference 2020"
+  publishedat: "VentureBeat"
+  url: "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/"
+  comments: ""
+thompson001:
+  summary: "It is, or will soon be, impossible to increase computing power at the same rate in order to continue these advances."
+  author: "Thompson and colleagues"
+  publishedat: "arXiv"
+  url: "https://arxiv.org/abs/2007.05558"
+  comments: ""
+memory001:
+  summary: "Deep reinforcement learning is a kind of turbocharged memorization"
+  author: ""
+  publishedat: "Wired"
+  url: "https://www.wired.com/story/deepminds-losses-future-artificial-intelligence/"
+  comments: ""
+AIleap001:
+  summary: "AI’s next big leap: The unlikely marriage of two major artificial intelligence approaches has given rise to a new hybrid called neurosymbolic AI."
+  author: ""
+  publishedat: "knowableMagazine"
+  url: "https://knowablemagazine.org/article/technology/2020/what-is-neurosymbolic-ai"
+  comments: ""
+NSfutureofAI001:
+  summary: "Neuro-symbolic A.I. is the future of artificial intelligence."
+  author: ""
+  publishedat: "DigitalTrends"
+  url: "https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/"
+  comments: ""
+AdventofNSbringBetterAI001:
+  summary: "The Advent of Neuro-Symbolic modeling to bring better AI"
+  author: ""
+  publishedat: "AnalyticsInsight"
+  url: "https://www.analyticsinsight.net/advent-neuro-symbolic-modeling-bring-better-ai/"
+  comments: ""
+  
