@@ -12,13 +12,9 @@ This is the call for papers
 
 ---
 
-List of invited speakers
+## Organizers
 
----
-
-List of organizers
-
-
----
-
-Tentative schedule
+- Asim Munawar [website](https://research.ibm.com/people/asim-munawar), IBM Research, asim -*AT*- ibm.com (primary contact)
+- Pranava Madhyastha [website](https://www.city.ac.uk/about/people/academics/pranava-madhyastha), City, University of London
+- Ramon Fernandez Astudillo [website](https://mitibmwatsonailab.mit.edu/people/ramon-fernandez-astudillo/), IBM Research
+- Abulhair Saparov [website](https://asaparov.org/), New York University
