@@ -6,10 +6,6 @@ layout: page
 title: Call for Papers
 ---
 
-
-## Call for papers
-
-
 This workshop aims to explore the continued significance of Neuro-Symbolic AI
 in light of the increasing dominance of foundation models and large language
 models.
@@ -40,13 +36,21 @@ The goal of this workshop is to provide a platform for researchers to present th
 
 We welcome submissions from researchers working on related topics such as neural program synthesis, program induction, and concept learning.
 
+---
 
+## Format
+
+Submissions should be in the form of a 4-page full paper or a 2-page abstract for posters/demonstrations. The papers should be formatted according to the conference’s guidelines [https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles).
+
+All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions among attendees. Accepted papers will be made part of the workshop proceedings and published online on the workshop website.
+
+We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
 
 ---
 
 ## Organizers
 
-- Asim Munawar [website](https://research.ibm.com/people/asim-munawar), IBM Research, asim -*AT*- ibm.com (primary contact)
+- Asim Munawar [website](https://research.ibm.com/people/asim-munawar), IBM Research, asim -*AT*- ibm -*-DoT-*- com (primary contact)
 - Pranava Madhyastha [website](https://www.city.ac.uk/about/people/academics/pranava-madhyastha), City, University of London
 - Ramon Fernandez Astudillo [website](https://mitibmwatsonailab.mit.edu/people/ramon-fernandez-astudillo/), IBM Research
 - Abulhair Saparov [website](https://asaparov.org/), New York University
