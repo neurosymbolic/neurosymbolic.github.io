@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NeurIPS 2023 Workshop on Neuro-Symbolic AI in the Age of Foundation Models
+title: NeurIPS 2023 Workshop on Neuro-Symbolic AI in the Age of Foundation Models (Proposal under review)
 email: asim **AT** ibm --DOT-- com
 description: >- # this means to ignore newlines until "baseurl:"
   Reach out to the organizers for any information on the workshop.
