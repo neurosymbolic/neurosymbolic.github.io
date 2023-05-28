@@ -38,11 +38,11 @@ We welcome submissions from researchers working on related topics such as neural
 
 ---
 
-## Format
+% ## Format
 
-Submissions should be in the form of a 4-page full paper or a 2-page abstract for posters/demonstrations. The papers should be formatted according to the conference’s guidelines [https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles).
+%Submissions should be in the form of a 4-page full paper or a 2-page abstract for posters/demonstrations. The papers should be formatted according to the conference’s guidelines [https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles).
 
-All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions among attendees. Accepted papers will be made part of the workshop proceedings and published online on the workshop website.
+%All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions among attendees. Accepted papers will be made part of the workshop proceedings and published online on the workshop website.
 
 We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
 
