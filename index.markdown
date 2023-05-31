@@ -6,35 +6,29 @@ layout: page
 title: Call for Papers
 ---
 
-This workshop aims to explore the continued significance of Neuro-Symbolic AI
-in light of the increasing dominance of foundation models and large language
-models.
+Neuro-symbolic AI (NSAI) is an interdisciplinary field that combines techniques from symbolic AI and neural network based models to create explainable AI systems capable of grounded logical reasoning over the large domain specific knowledge bases. However,  the recent emergence of foundation models or large language models (LLMs) trained on massive amounts of data has the potential to reshape NSAI. LLMs have made significant strides in various natural language processing (NLP) tasks, such as text generation, machine translation, question answering, and sentiment analysis. By harnessing the power of deep neural networks and extensive data, these models can identify patterns and generate coherent and contextually relevant text. Notably, NSAI models can potentially leverage these capabilities by utilizing symbolic manipulation as an intermediate step.
 
-Neuro-symbolic AI (NSAI) is an interdisciplinary field that combines techniques from symbolic AI and neural networks to create explainable AI systems that can perform logical reasoning over the domain knowledge bases. With the recent advent of foundation models (and large-scale language models - LLMs) trained on massive amounts of data, the future of NSAI may need to be redefined. Some argue that large language models with hundreds of billions of parameters exhibit some capabilities of reasoning. However, it is not clear to what extent and how repeatable are such reasoning capabilities are? For example, Chain-of-thought prompting has been shown to misrepresent the reasons for model predictions.
+Several studies suggest that large language models, consisting of hundreds of billions of parameters, possess reasoning capabilities. However, it remains uncertain whether these models genuinely engage in abstract reasoning similar to humans or rely on specific shortcuts. In fact, approaches such as Chain-of-thought prompting techniques have been found to distort the rationales behind model predictions and LLMs have shown a limited grasp of symbolic meaning in coding tasks. Consequently, symbol manipulation serves as a fundamental tool for assessing the reasoning abilities of LLMs. Additionally, it is evident that neural systems are likely to be integrated with classical computers in various real-world applications, such as toolformer models. In such scenarios, the capacity to manipulate symbolic systems and generate valid statements within a grammar becomes crucial. Lastly, language models possess inherent limitations as world models due to the nature of their training data. Symbolic systems offer an inductive bias that could potentially compensate for these limitations.
 
-We believe that the AI community is in an LLM hype cycle, and NSAI is not only more relevant than ever before, but it can also provide a solution to the limitations of today's models. We predict that NSAI will only gain more traction in the coming years as more and more industries embrace foundation models. In many cases, NSAI algorithms may need to evolve in order to work with the new AI paradigm of foundation models.
+Neural-symbolic approaches offer valuable solutions to address critical limitations, including the lack of interpretability and explainability, sensitivity to biases in training data, and challenges in reasoning about causality and temporal dependencies. Moreover, incorporating symbolic reasoning and cognitive processes into AI systems is becoming increasingly necessary to enhance their understanding and interpretation of complex real-world scenarios.
 
-Foundation models have indeed made significant advancements in many natural language processing (NLP) tasks, including text generation, machine translation, question answering, and sentiment analysis. These models leverage the power of deep neural networks and massive amounts of data to learn patterns and generate text that is often coherent and contextually relevant. In many tasks, these models seem to be able to parse and generate natural language seamlessly. This is a capability that NSAI algorithms can leverage when performing symbolic manipulation in the middle. On the other end, NSAI algorithms can especially help with resolving critical limitations, such as a lack of interpretability and explainability, sensitivity to biases in training data, and difficulty in reasoning about causality and temporal dependencies.
-
-Artificial Intelligence (AI) has made significant strides in recent years, with the advent of foundation models like GPT-3 and BERT, which have revolutionized natural language processing tasks. However, there is a growing need to incorporate symbolic reasoning and cognitive processes into AI systems to enable them to better understand and interpret complex real-world scenarios. This workshop aims to explore the intersection of neuro-symbolic AI and foundation models, and how this combination can advance the field of AI research and applications.
+In the current landscape, NSAI approaches are more relevant than ever. They provide the tools to analyze and mitigate the limitations of current-generation LLMs, and we believe that NSAI can play a significant role as these models are deployed in real-world settings. Anticipating the widespread adoption of foundation models across industries, we predict that NSAI will gain further momentum in the coming years. However, it is essential for NSAI algorithms to evolve to effectively operate within the new AI paradigm of foundation models.
 
 
-The goal of this workshop is to provide a platform for researchers to present their latest work on neuro-symbolic AI in the age of foundation models and to foster discussions on the challenges and opportunities in this area. We invite submissions of papers, posters, and demonstrations on any topic related to neuro-symbolic AI, including but not limited to:
+The primary objective of this workshop is to provide a dedicated platform for researchers to present and share their cutting-edge advancements in the next generation of NSAI. We anticipate that the workshop will serve as a catalyst for stimulating insightful discussions surrounding the challenges and opportunities within this field. By creating an environment conducive to knowledge exchange and the exploration of innovative ideas, we aim to foster collaboration and inspire new breakthroughs. We invite submissions on  topics and questions related to NSAI, including but not limited to:
 
-- Survey of recent neuro-symbolic AI methods and applications
-- Introduction to neuro-symbolic AI and their role in the development of the next generation of large language models
-- Advances in natural language understanding and generation using Neuro-Symbolic AI
-- Other applications for NSAI (time series, vision, robotics, etc.)
-- Role for neuro-symbolic AI for grounded LLMs
-- Learning with less data and compute with NSAI
-- Ethical and social implications of Neuro-Symbolic AI in the context of large language models
-- Incorporating domain knowledge in learning
-- Compositional generalization
-- The challenges and opportunities of combining symbolic reasoning and deep learning techniques for knowledge representation and reasoning
-- Case studies and applications of Neuro-Symbolic AI in language understanding, question answering, and natural language generation
-- Future directions for research and development in Neuro-Symbolic AI in the era of large language models
+- Survey of recent NSAI methods and applications
+- How do we define NSAI? What role do they play in shaping the development of the next generation of large language models?
+- To what extent and in what ways does NSAI contribute to natural language understanding and generation?
+- Besides language-related tasks, what are the applications of NSAI in the era of LLMs for domains such as time series analysis, computer vision, robotics, etc.? 
+- What role does NSAI play in grounding LLMs and enhancing their performance?
+- Is it possible to leverage NSAI to achieve data efficiency? Can we train models using significantly less data while maintaining their performance?
+- How can we effectively incorporate domain knowledge into the learning process within NSAI for LLMs?
+- What strategies can we employ to address challenges related to compositional generalization using NSAI for LLMs?
+- How can we combine symbolic reasoning and deep learning techniques to enhance knowledge representation and reasoning within LLMs?
+- We also welcome submissions from researchers working on related topics such as neural program synthesis, program induction, and concept learning.
 
-We welcome submissions from researchers working on related topics such as neural program synthesis, program induction, and concept learning.
+We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
 
 ---
 
